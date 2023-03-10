@@ -1,2 +1,2 @@
 #!/bin/bsh
-chmod -R +x .
+chmod -R +X .
